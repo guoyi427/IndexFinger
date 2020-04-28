@@ -15,6 +15,7 @@
 		304A6F9224572EDE007D8579 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 304A6F9024572EDE007D8579 /* Main.storyboard */; };
 		304A6F9424572EE2007D8579 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304A6F9324572EE2007D8579 /* Assets.xcassets */; };
 		304A6F9724572EE2007D8579 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 304A6F9524572EE2007D8579 /* LaunchScreen.storyboard */; };
+		30B40F9724582BE20039D81E /* IndexFingerSpriteNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B40F9624582BE20039D81E /* IndexFingerSpriteNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		304A6F9324572EE2007D8579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		304A6F9624572EE2007D8579 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		304A6F9824572EE2007D8579 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30B40F9624582BE20039D81E /* IndexFingerSpriteNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexFingerSpriteNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				304A6F8824572EDE007D8579 /* GameScene.sks */,
 				304A6F8A24572EDE007D8579 /* Actions.sks */,
 				304A6F8C24572EDE007D8579 /* GameScene.swift */,
+				30B40F9624582BE20039D81E /* IndexFingerSpriteNode.swift */,
 				304A6F8E24572EDE007D8579 /* GameViewController.swift */,
 				304A6F9024572EDE007D8579 /* Main.storyboard */,
 				304A6F9324572EE2007D8579 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			files = (
 				304A6F8D24572EDE007D8579 /* GameScene.swift in Sources */,
 				304A6F8F24572EDE007D8579 /* GameViewController.swift in Sources */,
+				30B40F9724582BE20039D81E /* IndexFingerSpriteNode.swift in Sources */,
 				304A6F8724572EDE007D8579 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
